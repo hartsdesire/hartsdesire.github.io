@@ -478,3 +478,8 @@ body {
 .direction-box{
   padding: 1.5em;
 }
+
+.header-content .h1{
+  background: rgb(70, 70, 70); /* Fallback for older browsers without RGBA-support */
+  background: rgba(70, 70, 70, 0.5);
+}
