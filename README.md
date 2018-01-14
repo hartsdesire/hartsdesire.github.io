@@ -1,2 +1,2 @@
-# hartsdesire.github.io
-Website
+# stwedding.github.io
+Wedding Website
