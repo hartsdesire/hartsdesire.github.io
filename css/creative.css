@@ -476,7 +476,7 @@ body {
 }
 
 .direction-box{
-  padding: 1.5em;
+  padding: 0.5em;
 }
 
 .header-content h1{
@@ -485,4 +485,39 @@ body {
 
 .header-content h2{
   text-shadow: 2px 2px #333;
+}
+
+.initial-icon{
+  float: left;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+
+}
+
+.initial-icon-r{
+  float: right;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.description{
+  padding-left:2em;
+  padding-right:2em;
+  text-align: left;
+}
+
+.description dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    font-weight: bold;
+  }
+.description dd {
+    margin: 0 0 0 110px;
+}
+
+.text-muted a,a:hover{
+  color: #555;
 }
