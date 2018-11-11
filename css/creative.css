@@ -55,6 +55,10 @@ p {
     background-color: #009999;
 }
 
+.bg-light {
+  background-color: rgba(0,153,153,.2);
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
@@ -520,4 +524,8 @@ body {
 
 .text-muted a,a:hover{
   color: #555;
+}
+
+.bg-primary a,a:visited{
+  color: #fff;
 }
