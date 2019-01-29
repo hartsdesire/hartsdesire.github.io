@@ -32,7 +32,8 @@ a {
 }
 
 a:hover,
-a:focus {
+a:focus,
+a:visited {
     color: #006666;
 }
 
@@ -524,9 +525,9 @@ body {
 }
 
 .text-muted a,a:hover{
-  color: #555;
+  color: #006666;
 }
 
-.bg-primary a,a:visited{
+.bg-primary a{
   color: #fff;
 }
